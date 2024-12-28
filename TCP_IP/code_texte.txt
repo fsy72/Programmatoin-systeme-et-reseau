@@ -1,0 +1,12 @@
+code réponse
+1 -> information
+2 -> succès (200)
+3 -> redirection
+4 -> erreur côté client (404)
+5 -> erreur côté serveur
+
+   ---> 1.Accepter 
+  |  -> 2.Analyser la requete
+  | |   3.Construire 
+  |  -- 4.
+   ---- 5.
